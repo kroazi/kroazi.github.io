@@ -1,0 +1,20 @@
+.main-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    width: 100%;
+    height: max-content;
+}
+
+.main-main div {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.main-main table {
+    margin: auto;
+    text-align: left;
+}
+
+.main-main th{
+    padding: 0.5rem;
+}
+

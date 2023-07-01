@@ -1,0 +1,144 @@
+#main-main {
+    width: 100%;
+    height: max-content;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+
+    padding-bottom: 7rem;
+
+    color: #2f3542;
+
+}
+
+#top-main {
+    width: 100%;
+    height: max-content;
+    font-size: 1.17rem;
+
+    background-color: white;
+    padding-bottom: 1rem;
+    box-shadow: 0 0.25rem 0.5rem #8888;
+    margin-bottom: 0.5rem;
+}
+
+#top-main p {
+    text-align: center;
+    padding-top: 1rem;
+
+}
+
+#out-we {
+    width: max-content;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    height: 100%;
+
+    margin: auto;
+}
+
+#we-main{
+   height: max-content; 
+   background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+
+   list-style-type: none;
+   border-radius: 0.5rem;
+   overflow: hidden;
+}
+
+#we-main li{
+    width:50rem;
+    height: 8rem;
+    background-color: white;
+
+    overflow: hidden;
+    margin: 2.5rem 0 0;
+    position: relative;
+    border-radius: 0.5rem;
+    transform:rotate(-0.5deg);
+}
+
+#r-li {
+    width: 30rem;
+    height: 20rem;
+    background-color: #747d8c53;
+
+    position: absolute;
+    left: -10rem;
+    transform:rotate(45deg);
+}
+
+#l-li {
+    width: 30rem;
+    height: 20rem;
+    background-color: #747d8c53;
+
+    position: absolute;
+    right: -10rem;
+    transform:rotate(-45deg);
+}
+
+#float-li {
+    position: absolute;
+    top: 0px;
+
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+}
+
+#float-li div{
+    width: 6rem;
+    margin: 1rem;
+    border-radius: 50%;
+}
+
+#float-li img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+#zsy-li {
+    height: 6rem;
+    width:0;
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+#zsy-li span {
+   width: 100%;
+   text-align: center;
+}
+
+.l-li {
+    transform:rotate(1deg) !important;
+}
+
+.main2-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6awjg.png);
+    width: 100%;
+    height: max-content;
+    position: relative;
+}
+
+#top2-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6aDBj.png);
+    width: 100%;
+    height: 3rem;
+    position: absolute;
+    top: -3.01rem;
+}
+
+.out2-main{
+    width: 80%;
+    margin:auto ;
+    padding: 3rem;
+    color: white;
+}
+
+.out2-main span {
+    display: block;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,43 @@
+#main-main {
+    font-size: 1rem;
+    color: #2f3542;
+
+    width: 100%;
+    height: 100%;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    padding-top: 3rem;
+}
+
+#out-main{
+    width: 100%;
+    height: max-content;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    padding-bottom: 3rem;
+}
+
+#in-main {
+    width: 80%;
+    height: max-content;
+    background-color: #747d8c53;
+
+    margin: auto;
+    border-radius: 0.5rem;
+    padding-top: 1rem;
+}
+
+#main-main ul {
+    padding-left: 10%;
+}
+
+#ul-main li {
+    padding: 1rem;
+
+    font-size: 1.1rem;
+}
+
+#ol-main {
+    padding-left: 1rem;
+    font-style: 1rem;
+}
+
+

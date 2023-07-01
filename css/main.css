@@ -1,0 +1,184 @@
+
+.style-welcome-main h3, .style-welcome-main a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-align: center;
+
+    margin-top: 1rem;
+}
+
+.style-welcome-main h1 {
+    color: white;
+    font-size: 2rem;
+
+    text-align: center;
+
+}
+
+.style-welcome-main p {
+    color: white;
+    font-size: 1rem;
+    line-height: 1.5rem;
+
+    width: 70%;
+    text-align: center;
+    margin:1rem auto;
+}
+
+.style-p {
+    width: 100%;
+    position: absolute;
+    bottom: 6rem;
+}
+
+.style-welcome-main {
+    width: 100%;
+    height: 100%;
+    background: url(https://s1.ax1x.com/2022/10/15/xwhU10.png);
+    background-position: center;
+
+    position: relative;
+    box-shadow: 0.25rem 0.25rem 1rem black inset;
+}
+
+.style-main {
+    width: 100%;
+    height: 90%;
+    background-color: #ffffff;
+}
+
+.style-2-main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    padding: 3rem 0 3rem; 
+    background-color: #dfe4ea;
+}
+
+#style-in-main {
+    color: white;
+
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background-color: #57606fa0;
+
+    transition: all 0.3s;
+    position: absolute;
+    bottom: -80%;
+}
+
+#style-in-main h3 {
+    font-size: 1.5rem;
+
+    width: 80%;
+    margin:1.5rem auto;
+    line-height: 20%;
+    
+}
+
+#style-in-main p {
+    font-size: 1.1rem;
+
+    width: 80%;
+    margin:1.5rem auto
+}
+
+#sc {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7i9s0rf80j313f0m6qus.jpg);
+}
+
+#hs {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7i9sp38c9j30xh0iux3x.jpg);
+}
+
+#ht {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7i9tagw42j312u0lu4qp.jpg);
+}
+
+#cj {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7ia1zqwlyj30p20e3nd5.jpg);
+}
+
+#xx {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7i9yx0i8hj30fm08s7ah.jpg);
+}
+
+#ikun {
+    background: url(http://tva1.sinaimg.cn/large/008eQtusgy1h7iahmvpjij30xs0j07pq.jpg);
+}
+
+#sc,#hs,#ht,#cj,#xx,#ikun {
+    background-size: 100%;
+    width: 30rem;
+    height: 16rem;
+    margin: 1rem;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0.4rem;
+}
+
+#sc:hover > #style-in-main,
+#hs:hover> #style-in-main,
+#ht:hover> #style-in-main,
+#cj:hover> #style-in-main,
+#xx:hover> #style-in-main,
+#ikun:hover> #style-in-main{
+    transform: translateY(-25%);
+}
+
+.style-2-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6awjg.png);
+
+
+    display: flex;
+    position: relative;
+}
+
+#top {
+    height: 3rem;
+    width: 100%;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aDBj.png);
+
+    position: absolute;
+    top: -3.01rem;
+}
+
+.style-center-main {
+    width: 100%;
+    height: 30rem;
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+
+    text-align: center;
+    overflow: hidden;
+}
+
+.style-center-main img {
+    height: 70%;
+    padding-top: 3rem;
+}
+
+#style-title-center {
+    width: 100%;
+    height: 6rem;
+
+    text-align: center;
+    overflow: hidden;
+
+    box-shadow:0 0.25rem 0.5rem #888888;
+    margin-bottom: 0.5rem;
+
+}
+
+#style-title-center a{
+    line-height: 6rem;
+    margin: 0 5%;
+
+    color: #2f3542;
+    text-decoration: none;
+}
+

@@ -1,0 +1,71 @@
+
+#out-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    width: 100%;
+    height: 100%;
+}
+
+#main-main {
+    background: url(https://s1.ax1x.com/2022/10/21/x6aBuQ.png);
+    width: 100%;
+    height: max-content;
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-bottom: 3rem;
+    overflow: hidden;
+}
+
+#main-main div {
+    width: 30rem;
+    height: 30rem;
+    background-color: #747d8c53;
+
+    border-radius: 0.5rem;
+    margin: 2rem 0 0;
+}
+
+#main-main img {
+    width: 80%;
+    display: block;
+
+    margin: 2.5rem auto 0.5rem;
+}
+
+#main-main p {
+    color: #2f3542;
+    font-size: 1rem;
+
+    border-radius: 3rem;
+    box-shadow: 1px 0px 10px white inset;
+
+    background-color: #ced6e0;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+    padding: 0.5rem;
+}
+
+#end-div{
+    height: 0 !important;
+    content: "";
+    display: block;
+    flex-wrap: 1;
+}
+
+#text-div{
+    width: 100%;
+    height: 7rem;
+
+    font-style: 1.17rem;
+
+    box-shadow:0 0.25rem 0.5rem #888888;
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+}
+
+#text-div p {
+    text-align: center;
+    line-height: 7rem;
+}
